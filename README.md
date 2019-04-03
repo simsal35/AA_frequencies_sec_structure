@@ -37,6 +37,9 @@ Before the final submission, you should execute these steps in a clean environme
 - 5 points for a transparent project structure
 - 5 points for informative ```notes``` file(s) with all project-relevant notes, like project planning, important links or your observations
 - 5 points for informative and working driver scripts
+- Bonus points:
+  - 1 point for a contribution to git-for-science repo
+  - 1 point for a markdown-formatted best-practices-cheatsheet.md
  
 ---
 #### References
